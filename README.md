@@ -1,5 +1,7 @@
-# hackerrank-golang-solutions
-Solutions of questions from hackerrank in golang
+# Hackerrank Golang Solutions
+Solutions of all the questions from Hackerrank in Golang.
+
+***This is an on-going series where I post solutions of questions on hackerrank with explanations on my [blog](https://rishabh1403.com) and each blog post is accompanied by a video on my [YouTube](https://www.youtube.com/channel/UC4syrEYE9_fzeVBajZIyHlA) channel. Use the links below for the question statement, complete source code, blog post, and video for that particular question.***
 
 # Practice
 
@@ -15,5 +17,5 @@ Solutions of questions from hackerrank in golang
 * Diagonal Difference - [Question](https://www.hackerrank.com/challenges/diagonal-difference/problem) | [Source Code](https://github.com/rishabh1403/hackerrank-golang-solutions/blob/master/practice/algorithms/warmup/diagonal-difference.go) | [Blog](https://rishabh1403.com/posts/coding/hackerrank/2018/08/hackerrank-solution-of-diagonal-difference-in-golang/) | [Youtube Video](https://www.youtube.com/watch?v=4b0RpyRfKY8)
 * Plus Minus - [Question](https://www.hackerrank.com/challenges/plus-minus/problem) | [Source Code](https://github.com/rishabh1403/hackerrank-golang-solutions/blob/master/practice/algorithms/warmup/plus-minus.go) | [Blog](https://rishabh1403.com/posts/coding/hackerrank/2018/08/hackerrank-solution-of-plus-minus-in-golang/) | [Youtube Video](https://www.youtube.com/watch?v=7996I_bqVmk)
 
-
+***Will keep adding more links here as the series progresses, generally I post 3 posts every week.***
 

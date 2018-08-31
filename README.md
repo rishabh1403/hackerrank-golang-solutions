@@ -3,9 +3,9 @@ Solutions of questions from hackerrank in golang
 
 # Practice
 
-# Algorithms
+## Algorithms
 
-## Warmup
+### Warmup
 
 * Solve me First
 * Simple Array Sum

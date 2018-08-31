@@ -3,7 +3,7 @@ Solutions of questions from hackerrank in golang
 
 # Practice
 
----
+- - - -
 
 # Algorithms
 

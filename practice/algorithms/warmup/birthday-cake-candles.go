@@ -3,7 +3,7 @@
 Author :- Rishabh Jain <contact@rishabh1403.com>
 Solution for :- https://www.hackerrank.com/challenges/birthday-cake-candles/problem
 blog for this code :- https://rishabh1403.com/posts/coding/hackerrank/2018/09/hackerrank-solution-of-birthday-cake-candles-in-golang/
-video explanation for this code :- https://www.youtube.com/watch?v=LhgqF1vzkGc
+video explanation for this code :- https://www.youtube.com/watch?v=3iT1akTZzqU
 
 */
 

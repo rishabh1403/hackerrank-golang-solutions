@@ -3,7 +3,7 @@
 Author :- Rishabh Jain <contact@rishabh1403.com>
 Solution for :- https://www.hackerrank.com/challenges/time-conversion/problem
 blog for this code :-https://rishabh1403.com/posts/coding/hackerrank/2018/09/hackerrank-solution-of-time-conversion-in-golang/
-video explanation for this code :- https://www.youtube.com/watch?v=f9hHJSxUfX4
+video explanation for this code :- https://www.youtube.com/watch?v=jX8hNDV7P9o
 
 */
 package main

@@ -3,7 +3,7 @@
 Author :- Rishabh Jain <contact@rishabh1403.com>
 Solution for :- https://www.hackerrank.com/challenges/grading/problem
 blog for this code :-https://rishabh1403.com/posts/coding/hackerrank/2018/09/hackerrank-solution-of-grading-students-in-golang/
-video explanation for this code :- https://www.youtube.com/watch?v=f9hHJSxUfX4
+video explanation for this code :- https://www.youtube.com/watch?v=Dk7QrcfYBjE
 
 */
 package main

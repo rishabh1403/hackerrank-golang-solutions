@@ -24,5 +24,12 @@ Solutions of all the questions from Hackerrank in Golang.
 * Birthday Cake Candles - [Question](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [Source Code](https://github.com/rishabh1403/hackerrank-golang-solutions/blob/master/practice/algorithms/warmup/birthday-cake-candles.go) | [Blog](https://rishabh1403.com/posts/coding/hackerrank/2018/09/hackerrank-solution-of-birthday-cake-candles-in-golang/) | [Youtube Video](https://www.youtube.com/watch?v=3iT1akTZzqU)
 * Time Conversion - [Question](https://www.hackerrank.com/challenges/time-conversion/problem) | [Source Code](https://github.com/rishabh1403/hackerrank-golang-solutions/blob/master/practice/algorithms/warmup/time-conversion.go) | [Blog](https://rishabh1403.com/posts/coding/hackerrank/2018/09/hackerrank-solution-of-time-conversion-in-golang/) | [Youtube Video](https://www.youtube.com/watch?v=jX8hNDV7P9o)
 
+***This completes warmup section as of now. Will add new solutions as and when Hackerrank adds it. Please raise an issue if I get delayed in adding it.***
+
+
+### Implementation
+
+* Time Conversion - [Question](https://www.hackerrank.com/challenges/grading/problem) | [Source Code](https://github.com/rishabh1403/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/grading-students.go) | [Blog](https://rishabh1403.com/posts/coding/hackerrank/2018/09/hackerrank-solution-of-grading-students-in-golang/) | [Youtube Video]()
+
 ***Will keep adding more links here as the series progresses, generally I post 3 updates every week.***
 

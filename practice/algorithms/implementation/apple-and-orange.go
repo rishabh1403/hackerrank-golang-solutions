@@ -2,8 +2,8 @@
 
 Author :- Rishabh Jain <contact@rishabh1403.com>
 Solution for :- https://www.hackerrank.com/challenges/apple-and-orange/problem
-blog for this code :-https://rishabh1403.com/posts/coding/hackerrank/2018/09/hackerrank-solution-of-staircase-in-golang/
-video explanation for this code :- https://www.youtube.com/watch?v=f9hHJSxUfX4
+blog for this code :-https://rishabh1403.com/posts/coding/hackerrank/2018/09/hackerrank-solution-of-apple-and-orange-in-golang/
+video explanation for this code :- https://www.youtube.com/watch?v=UJBdyCUR4h8
 
 */
 package main

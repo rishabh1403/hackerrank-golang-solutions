@@ -30,6 +30,7 @@ Solutions of all the questions from Hackerrank in Golang.
 ### Implementation
 
 * Time Conversion - [Question](https://www.hackerrank.com/challenges/grading/problem) | [Source Code](https://github.com/rishabh1403/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/grading-students.go) | [Blog](https://rishabh1403.com/posts/coding/hackerrank/2018/09/hackerrank-solution-of-grading-students-in-golang/) | [Youtube Video](https://www.youtube.com/watch?v=Dk7QrcfYBjE)
+* Apple and Orange - [Question](https://www.hackerrank.com/challenges/apple-and-orange/problem) | [Source Code](https://github.com/rishabh1403/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/apple-and-orange.go) | [Blog](https://rishabh1403.com/posts/coding/hackerrank/2018/09/hackerrank-solution-of-apple-and-orange-in-golang/) | [Youtube Video](https://www.youtube.com/watch?v=UJBdyCUR4h8)
 
 ***Will keep adding more links here as the series progresses, generally I post 3 updates every week.***
 

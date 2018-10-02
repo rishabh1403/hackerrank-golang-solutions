@@ -2,8 +2,8 @@
 
 Author :- Rishabh Jain <contact@rishabh1403.com>
 Solution for :- https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem
-blog for this code :-https://rishabh1403.com/posts/coding/hackerrank/2018/09/hackerrank-solution-of-staircase-in-golang/
-video explanation for this code :- https://www.youtube.com/watch?v=f9hHJSxUfX4
+blog for this code :-https://rishabh1403.com/posts/coding/hackerrank/2018/10/hackerrank-solution-of-breaking-the-records-in-golang/
+video explanation for this code :- https://www.youtube.com/watch?v=7RKyPKN1rP0
 
 */
 

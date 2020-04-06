@@ -10,24 +10,24 @@ package main
 
 import "fmt"
 
-func main(){
-	var n,t int
+func main() {
+	var n, t int
 
 	fmt.Scan(&n)
 
-	a := make([]int,5)
+	a := make([]int, 5)
 
-	for i:=0;i<n;i++{
+	for i := 0; i < n; i++ {
 		fmt.Scan(&t)
-		t = t -1
+		t = t - 1
 		a[t]++
 	}
-	max,occ := a[0],0
+	max, occ := a[0], 0
 
-	for i,num := range a{
-		if num > max{
+	for i, num := range a {
+		if num > max {
 			max = num
-			occ = i+1
+			occ = i + 1
 		}
 	}
 	fmt.Println(occ)

@@ -9,24 +9,24 @@ video explanation for this code :- https://www.youtube.com/watch?v=Dk7QrcfYBjE
 package main
 
 import (
-    "fmt"
+	"fmt"
 )
 
-func main(){
+func main() {
 
-    var n,t int
-    fmt.Scan(&n)
+	var n, t int
+	fmt.Scan(&n)
 
-    for i:=0;i<n;i++{
-        fmt.Scan(&t)
-        if t<38{
-            fmt.Println(t)
-        }else {
-            if t%5 >2 {
-                fmt.Println(((t/5)+1)*5)
-            }else {
-                fmt.Println(t)
-            }
-        }
-    }
+	for i := 0; i < n; i++ {
+		fmt.Scan(&t)
+		if t < 38 {
+			fmt.Println(t)
+		} else {
+			if t%5 > 2 {
+				fmt.Println(((t / 5) + 1) * 5)
+			} else {
+				fmt.Println(t)
+			}
+		}
+	}
 }

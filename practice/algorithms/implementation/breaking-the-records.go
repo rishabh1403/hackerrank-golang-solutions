@@ -8,21 +8,22 @@ video explanation for this code :- https://www.youtube.com/watch?v=7RKyPKN1rP0
 */
 
 package main
+
 import (
 	"fmt"
 )
 
-func main(){
-	var n,min,max,cmin,cmax int
+func main() {
+	var n, min, max, cmin, cmax int
 	fmt.Scan(&n)
 
-	for i:=0;i<n;i++{
+	for i := 0; i < n; i++ {
 		var t int
 		fmt.Scan(&t)
-		if i ==0 {
+		if i == 0 {
 			min = t
 			max = t
-		}else{
+		} else {
 			if t < min {
 				cmin++
 				min = t
@@ -33,5 +34,5 @@ func main(){
 			}
 		}
 	}
-	fmt.Println(cmax,cmin)
+	fmt.Println(cmax, cmin)
 }

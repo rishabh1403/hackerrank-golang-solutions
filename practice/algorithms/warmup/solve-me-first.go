@@ -8,14 +8,15 @@ video explanation for this code :- https://www.youtube.com/watch?v=yNzVtH2xsfQ
 */
 
 package main
+
 import (
-    "fmt"
+	"fmt"
 )
 
-func main(){
-    var a,b,sum int
-    fmt.Scanf("%d\n%d",&a,&b)
-    //fmt.Scan(&a,&b)
-    sum = a+b
-    fmt.Println(sum)
+func main() {
+	var a, b, sum int
+	fmt.Scanf("%d\n%d", &a, &b)
+	//fmt.Scan(&a,&b)
+	sum = a + b
+	fmt.Println(sum)
 }

@@ -8,23 +8,24 @@ video explanation for this code :- https://www.youtube.com/watch?v=3iT1akTZzqU
 */
 
 package main
+
 import "fmt"
 
-func main(){
-	var n,t,max,occ int
+func main() {
+	var n, t, max, occ int
 	fmt.Scan(&n)
 
 	a := []int{}
-	for i:=0;i<n;i++{
+	for i := 0; i < n; i++ {
 		fmt.Scan(&t)
-		a = append(a,t)
+		a = append(a, t)
 		if t > max {
 			max = t
 		}
 	}
 
-	for _,num := range a{
-		if num == max{
+	for _, num := range a {
+		if num == max {
 			occ++
 		}
 	}

@@ -9,17 +9,17 @@ video explanation for this code :- https://www.youtube.com/watch?v=-LlUwKzx-0k
 package main
 
 import (
-    "fmt"
-    "sort"
+	"fmt"
+	"sort"
 )
 
-func main(){
+func main() {
 
-    a := make([]int, 5)
+	a := make([]int, 5)
 
-    fmt.Scan(&a[0],&a[1],&a[2],&a[3],&a[4])
-    sort.Ints(a)
-    min := a[0]+a[1]+a[2]+a[3]
-    max := a[1]+a[2]+a[3]+a[4]
-    fmt.Println(min,max)
+	fmt.Scan(&a[0], &a[1], &a[2], &a[3], &a[4])
+	sort.Ints(a)
+	min := a[0] + a[1] + a[2] + a[3]
+	max := a[1] + a[2] + a[3] + a[4]
+	fmt.Println(min, max)
 }
